@@ -1,0 +1,37 @@
+.h1{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;   
+}
+.body{
+    background-color: aqua;
+}
+.pgraph{
+    text-align: justify;
+}
+.image{
+    width: 100%;
+    border-radius: 5%;   
+}
+.emb{
+    color :blue;
+}
+.strg{
+    color: blue;
+}
+.h3{
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+a {
+    color: green;
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+}
+
+
