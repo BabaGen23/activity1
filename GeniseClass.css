@@ -1,0 +1,77 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    margin-bottom: 5px ;
+    margin-right: 5px;
+}
+
+#box1 {
+    text-align: left;
+    font-style: italic;
+    background-color: red;
+}
+
+
+#box2 {
+    text-align: right;
+    font-family: Arial, sans-serif;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#box3 {
+    margin: auto;
+    border: 3px dotted black;
+    background-color: rgb(238, 152, 24);
+}
+
+
+#box4 {
+    color: green;
+    background-color: yellow;
+    font-variant: small-caps;
+    border: 5px dashed;
+    background-color: matching_green_color;
+    font-size: 13px;
+}
+
+#box5 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+    font-style: oblique;
+}
+
+#box5 span.red {
+    color: red;
+}
+
+#box5 span.blue {
+    color: blue;
+}
+
+#box5 span.green {
+    color: green;
+}
+
+.centered-box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 65px;
+    margin: 400px; 
+    
+
+}
+#box6 {
+    background-color: blue;
+    
+}
+#box7 {
+    background-color: violet;
+}
