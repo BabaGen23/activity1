@@ -1,0 +1,38 @@
+body{
+    background-color: cyan;
+}
+.h1{
+    text-align: center;
+    font-style: italic;
+    color: blue;
+}
+.hr{
+    border: 1px solid gray;
+}
+.h2{
+    text-align: center;
+}
+h3,.p1{
+    margin: 0;
+    display: inline-block;
+}
+.sp1{
+    color: hsl(0, 0%, 75%);
+}
+.sp2{
+    color: #FF00FF;
+}
+.sp3{
+    color: rgb(255, 165, 0);
+}
+.p2{
+    font-weight: bold;
+    margin: 0;
+    text-decoration: underline;
+    display: inline-block;
+}
+.p3{
+    margin: 0;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+}
