@@ -1,0 +1,26 @@
+h1,h2{
+    text-align: center;
+    
+}
+h2{
+    font-size: medium;
+}
+.p1,.p2,.p3{
+    text-align: justify;
+    padding: 1px;
+    border: 2px red dashed;
+    margin: 10px 85px 10px 85px ;
+}
+.p2{
+    
+    background-color: lightgray;
+}
+.sth{
+    font-style: normal;
+    text-decoration: line-through;
+}
+.b{
+    font-style: normal;
+    font-weight: bold;
+}
+
